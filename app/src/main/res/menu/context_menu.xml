@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/contextmenu_view"
+        android:title="View"
+        />
+    <item
+        android:id="@+id/contextmenu_done"
+        android:title="Done"
+        />
+    <item
+        android:id="@+id/contextmenu_share"
+        android:title="Share"
+        />
+    <item
+        android:id="@+id/contextmenu_download"
+        android:title="Dowlnoad"
+        />
+    <item
+        android:id="@+id/contextmenu_questions"
+        android:title="Questions"
+        />
+    <item
+        android:id="@+id/contextmenu_update"
+        android:title="Update"
+        />
+</menu>
